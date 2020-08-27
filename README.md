@@ -1,1 +1,2 @@
 # artistRanker
+# artistPage
