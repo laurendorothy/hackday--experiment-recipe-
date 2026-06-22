@@ -5,7 +5,6 @@
 | **Versie** | |
 | **Status** | PROPOSED / ACCEPTED / REJECTED |
 | **Laatste aanpasdatum** | XX/XX/XXXX |
-| **Commit message** | |
 | **Aanpasser** | |
 
 ---
