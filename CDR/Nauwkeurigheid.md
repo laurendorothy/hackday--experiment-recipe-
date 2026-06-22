@@ -4,9 +4,9 @@
 |---|---|
 | **Versie** | |
 | **Status** | PROPOSED / ACCEPTED / REJECTED |
-| **Laatste aanpasdatum** | |
-| **Commit message** | |
+| **Laatste aanpasdatum** | XX/XX/XXXX |
 | **Aanpasser** | |
+
 
 ---
 
