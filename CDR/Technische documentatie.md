@@ -22,9 +22,9 @@ Verifieer per element van Bijlage IV of het aanwezig is in het technisch dossier
 |---|---|
 | **Versie** | |
 | **Status** | PROPOSED / ACCEPTED / REJECTED |
-| **Laatste aanpasdatum** | |
-| **Commit message** | |
+| **Laatste aanpasdatum** | XX/XX/XXXX |
 | **Aanpasser** | |
+
 
 ---
 
